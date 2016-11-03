@@ -1,6 +1,14 @@
 # Overview
 This repo is used to share the workflows that I created and used in my daily work & life.
 
+## BYR BBS Top 10 posts
+
+> use: bbs
+
+Easy to use, just see the gif below.
+
+![](https://raw.githubusercontent.com/Rvtea/Rvtea_Alfred_Workflows/master/assets/bbstop10.gif)
+
 ## kv.alfredworkflow
 > use: kv VPN_name
 
