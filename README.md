@@ -5,6 +5,8 @@ This repo is used to share the workflows that I created and used in my daily wor
 
 > use: bbs
 
+> use: bbs boardName
+
 Easy to use, just see the gif below.
 
 ![](https://raw.githubusercontent.com/Rvtea/Rvtea_Alfred_Workflows/master/assets/bbstop10.gif)
